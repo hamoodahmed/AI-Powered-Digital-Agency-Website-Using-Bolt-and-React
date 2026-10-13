@@ -189,7 +189,7 @@ nexaai-website/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nexaai-website.git
+git clone https://github.com/hamoodahmed/AI-Powered-Digital-Agency-Website-Using-Bolt-and-React.git
 
 # Navigate into the project directory
 cd nexaai-website
@@ -259,7 +259,7 @@ git commit -m "Initial commit — NexaAI digital agency website
 git branch -M main
 
 # Link your GitHub repository (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/nexaai-website.git
+git remote add origin https://github.com/hamoodahmed/AI-Powered-Digital-Agency-Website-Using-Bolt-and-React.git
 
 # Push the code to GitHub
 git push -u origin main
@@ -311,7 +311,7 @@ git push -u origin main
 Your website is now deployed at a URL like:
 
 ```
-https://nexaai-website.vercel.app
+https://ai-powered-digital-agency-website-u.vercel.app/
 ```
 
 > **Automatic deployments:** Every time you push new code to the `main` branch on GitHub, Vercel automatically rebuilds and deploys the updated site. No manual steps needed.
@@ -333,7 +333,7 @@ git init
 git add .
 git commit -m "Initial commit — NexaAI digital agency website"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/nexaai-website.git
+git remote add origin https://github.com/hamoodahmed/AI-Powered-Digital-Agency-Website-Using-Bolt-and-React.git
 git push -u origin main
 
 # --- Future Updates (after initial push) ---
@@ -377,8 +377,8 @@ A complete single-page application with 7 fully functional sections:
 - CSS-only visuals — no external image dependencies, everything is generated
 - Zero build errors, optimized bundle (~59 KB gzipped JS)
 
-**Live Demo:** [Insert your Vercel URL here]
-**Source Code:** [Insert your GitHub URL here]
+**Live Demo:** [https://ai-powered-digital-agency-website-u.vercel.app/]
+**Source Code:** [https://github.com/hamoodahmed/AI-Powered-Digital-Agency-Website-Using-Bolt-and-React.git]
 
 Always happy to discuss front-end engineering, React architecture, or AI-driven web experiences. Open to new opportunities.
 
