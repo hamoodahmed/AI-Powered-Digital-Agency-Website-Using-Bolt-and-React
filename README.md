@@ -71,7 +71,7 @@ NexaAI positions itself as a cutting-edge digital agency at the intersection of 
 Once deployed, your live site will be available at:
 
 ```
-https://your-project-name.vercel.app
+https://ai-powered-digital-agency-website-u.vercel.app/
 ```
 
 ---
